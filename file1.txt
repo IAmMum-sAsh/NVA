@@ -6,3 +6,4 @@ we are in point 7)
 and we need a third commit
 
 commit in the cloned repo
++third commit
