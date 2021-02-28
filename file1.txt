@@ -2,3 +2,5 @@ first file
 new line
 
 we are in point 7)
+
+and we need a third commit
