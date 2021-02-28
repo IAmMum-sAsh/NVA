@@ -1,2 +1,3 @@
 first file
-different line
+new line
+
