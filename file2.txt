@@ -1,3 +1,5 @@
 second file
 
 we are still in point 7)
+
+commit in the cloned repo#2
